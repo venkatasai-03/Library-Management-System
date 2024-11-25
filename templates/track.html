@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Track Borrowed Books</title>
+</head>
+<body>
+    <h1>Track Borrowed Books</h1>
+    <ul>
+        {% for entry in track %}
+        <li>{{ entry|join(': ') }}</li>
+        {% endfor %}
+    </ul>
+    <a href="/">Back to Home</a>
+</body>
+</html>
