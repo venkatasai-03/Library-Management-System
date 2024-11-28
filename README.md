@@ -1,29 +1,34 @@
-﻿# Library-Management-System
-A comprehensive Library Management System built with Flask, SQLAlchemy, and Flask-Login that allows students to manage library books efficiently. The system supports user authentication, book borrowing, returning, donating, and tracking borrowed books.
+# **Student Library Management System**
 
-Features
+A comprehensive **Library Management System** built with **Flask**, **SQLAlchemy**, and **Flask-Login** that allows students to manage library books efficiently. The system supports user authentication, book borrowing, returning, donating, and tracking borrowed books.
 
-User Authentication:
-Secure login and registration with password hashing using Flask-Login and Flask-Bcrypt.
+---
 
-Book Management:
-View available books, borrow, return, and donate books.
+## **Features**
 
-Tracking:
-Track borrowed books in real-time.
+- **User Authentication:**  
+  Secure login and registration with password hashing using **Flask-Login** and **Flask-Bcrypt**.
 
-Responsive UI:
-User-friendly interface designed with HTML and CSS for seamless navigation.
+- **Book Management:**  
+  View available books, borrow, return, and donate books.
 
-Database Integration:
-Efficient CRUD operations on book and user data using SQLAlchemy and SQLite.
+- **Tracking:**  
+  Track borrowed books in real-time.
 
-Tech Stack
+- **Responsive UI:**  
+  User-friendly interface designed with **HTML** and **CSS** for seamless navigation.
 
-Backend: Flask, Flask-Login, Flask-Bcrypt, Flask-SQLAlchemy
+- **Database Integration:**  
+  Efficient CRUD operations on book and user data using **SQLAlchemy** and **SQLite**.
 
-Frontend: HTML, CSS
+---
 
-Database: SQLite
+## **Tech Stack**
 
-Deployment: Localhost (debug mode)
+- **Backend:** Flask, Flask-Login, Flask-Bcrypt, Flask-SQLAlchemy  
+- **Frontend:** HTML, CSS  
+- **Database:** SQLite  
+- **Deployment:** Localhost (debug mode)
+
+---
+
