@@ -19,7 +19,11 @@ Database Integration:
 Efficient CRUD operations on book and user data using SQLAlchemy and SQLite.
 
 Tech Stack
+
 Backend: Flask, Flask-Login, Flask-Bcrypt, Flask-SQLAlchemy
+
 Frontend: HTML, CSS
+
 Database: SQLite
+
 Deployment: Localhost (debug mode)
